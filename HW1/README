@@ -1,6 +1,10 @@
 README
 
 Mateo Guaman Castro
+COMP150: Reinforcement Learning, Tufts University
+
+Based on programming exercise 2.5 of Reinforcement Learning: An Introduction, 2nd Edition, Sutton and Barto
+
 
 Python 3, and the Numpy and Matplotlib libraries are required.
 To run the file guamanm_hw1, simply run:
