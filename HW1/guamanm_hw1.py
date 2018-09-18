@@ -8,7 +8,7 @@ Homework #1
 
 This assignment is based on Exercise 2.5 of Reinforcement Learning: An Introduction, 2nd Edition, by Sutton and Barto.
 
-For more information on this assignment, refer to the PDF writeup at www.github.com/mateoguaman/
+For more information on this assignment, refer to the PDF writeup at https://github.com/mateoguaman/RL/blob/master/HW1/HW1_kArmedBandits.pdf
 """
 
 import numpy as np
