@@ -1,0 +1,10 @@
+Reinforcement Learning HW3
+
+
+Mateo Guaman
+
+Taken from exercise 8.4 from Sutton and Barto's Reinforcement Learning: An Introduction
+
+Requires numpy and matplotlib
+
+To run, simply run it with python3 maze2.py
