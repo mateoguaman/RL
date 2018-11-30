@@ -1,0 +1,11 @@
+README
+
+Mateo Guaman Castro
+Homework 4
+COMP150: Reinforcement Learning
+Tufts University
+
+To run pacman code, open project in eclipse, and run RunTest.java
+To change the learning method, use one of: customS, customQ, depthS, depthQ. To change the number of episodes, change the value of the variable LENGTH inside the demo function in the RunTest.java file. To change the feature set used, inside the function create, change between DepthFeatureSet and DepthFeatureSetPoly in line 138. Finally, change the file name of the csv files inside the train function, in line 173.
+
+To run the plotter of the csv files, simply run the file perfPlotter.py
